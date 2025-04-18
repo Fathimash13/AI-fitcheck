@@ -19,7 +19,8 @@ st.set_page_config(page_title="AI FitCheck – Choose Your Vibe", layout="center
 st.markdown("""
     <style>
     body {
-        background-image: url('https://i.ibb.co/pBDjYbH/silk-bg.jpg');
+        background-image: url('background-image: url('https://images.unsplash.com/photo-1600795904984-6276c3479be3?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80');
+');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
